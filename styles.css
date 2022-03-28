@@ -1,1 +1,46 @@
-/* Copy and paste your CSS from CodePen into here */
+body {
+    line-height: 1.5;
+    text-align: center;
+  
+  }
+  
+  h1 {
+    font-size: 300%;
+    margin-bottom: 0;
+  }
+  
+  
+  #main {
+    margin: 20px;
+    padding: 15px;
+    border-radius: 5px;
+    background:lightgray;
+  }
+  
+  
+  
+  img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+  }
+  
+  #img-div {
+    padding: 10px;
+    margin: 0;
+  }
+  
+  #img-caption {
+    margin: 15px 0 5px 0;
+  }
+  
+  #tribute-info{
+    max-width: 650px;
+    margin: 40px auto 50px auto;
+    text-align: left;
+  }
+  
+  #storyline{
+    margin-top:40px;
+  }
